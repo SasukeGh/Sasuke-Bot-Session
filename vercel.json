@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/pair",
+      "dest": "/pair.html"
+    },
+    {
+      "src": "/qr",
+      "dest": "/scan.html"
+    }
+  ]
+}
